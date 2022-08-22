@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am a 3rd year Computer Engineering Student at University of Guelph. 
-- 🔭 I’m currently working on Discord Trading bot
+- 🔭 I’m currently working on a React app
 - 🌱 I’m currently learning MERN stack
 - ⚡ Fun fact: I love collecting mechanical keyboards 
 - 📫 How to reach me: https://www.linkedin.com/in/mohammad-farhan-ali-b5041a177/
