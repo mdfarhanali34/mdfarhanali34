@@ -1,6 +1,6 @@
 # Hello there 👋, I'm Mohammad Farhan Ali
 
-### Software/DevOps/Cloud Engineer
+### Software Engineer
 
 - 🔭 I’m currently working on: __Full Stack Software Engineering__ 
 - 🌱 I’m currently learning: __Java Spring Boot__
